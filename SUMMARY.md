@@ -7,7 +7,7 @@
        * [习惯约束](习惯约束.md)
    * [Table](table.md)
        * [建表](建表.md)
-       * 拆表
+       * [拆表](拆表.md)
    * [Index](index.md)
    * [Operations](operations.md)
    * [Others](others.md)
