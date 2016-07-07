@@ -6,5 +6,5 @@
    * [Table](table.md)
    * [Index](index.md)
    * [Operations](operations.md)
-   * Others
+   * [Others](others.md)
 
