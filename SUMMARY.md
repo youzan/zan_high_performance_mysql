@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [数据库优化](README.md)
 * [数据库优化](Database.md)
    * [SQL](sql.md)
        * [用法优化](用法优化.md)
