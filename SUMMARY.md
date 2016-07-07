@@ -12,5 +12,6 @@
        * [读写分离](读写分离.md)
    * [Index](index.md)
    * [Operations](operations.md)
+       * 数据库部署
    * [Others](others.md)
 
