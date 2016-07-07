@@ -13,6 +13,6 @@
    * [Index](index.md)
    * [Operations](operations.md)
        * [数据库部署](数据库部署.md)
-       * 配置
+       * [配置](配置.md)
    * [Others](others.md)
 
