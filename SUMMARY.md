@@ -16,5 +16,6 @@
        * [配置](配置.md)
        * [系统](系统.md)
        * [硬件](硬件.md)
+       * bin-log
    * [Others](others.md)
 
