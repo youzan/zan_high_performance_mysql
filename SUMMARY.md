@@ -5,5 +5,5 @@
    * [SQL](sql.md)
    * [Table](table.md)
    * [Index](index.md)
-   * Operations
+   * [Operations](operations.md)
 
