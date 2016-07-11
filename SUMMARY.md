@@ -16,5 +16,5 @@
    * [系统](系统.md)
    * [硬件](硬件.md)
    * [bin-log](bin-log.md)
-* [Others](others.md)
+* [其他](其他.md)
 
